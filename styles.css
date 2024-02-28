@@ -1,0 +1,66 @@
+body {
+    background: black;
+     margin: 10px;
+}
+
+div h1 {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: left;
+    background-color: white;
+      
+}
+    
+h2 {
+    display:flex;
+    text-align: left;
+    background: white
+ 
+
+ }
+  
+h3 {
+    text-align: left;
+}
+    
+
+p {
+    text-align: justify;
+    margin: auto;
+    padding: 2%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gainsboro;
+    border-image:auto;
+    justify-content: center;
+    
+}
+   
+#Natacion {
+    width: 490px;
+    height: 490px;
+    background: white;
+    margin: auto;
+}
+#Natacion2 {
+    width: 490px;
+    height: 497px;
+    background: white;
+    margin: 50px 60px 0px 674px;
+
+}
+#Natacion3 {
+    width: 490px;
+    height: 463px;
+    background: white;
+    margin: 50px 50px 0px 673px;
+    
+}
+#Natacion4 {
+    width: 490px;
+    height: 445px;
+    background: white;
+    margin: 50px 50px 0px 673px;
+   
+}
